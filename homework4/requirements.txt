@@ -1,0 +1,7 @@
+sortedcontainers
+scikit-multiflow
+numpy
+scipy
+matplotlib
+scikit-learn
+pandas
